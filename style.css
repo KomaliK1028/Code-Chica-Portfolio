@@ -14,15 +14,15 @@ div.buttonWrapper {
 }
 
 div.button {
-    border: 3px solid black;
+    border: 3px solid rgb(40, 140, 255);
     border-radius: 5px;
     margin: 2.5%;
-    width: 7%;
+    width: 10%;
     height: 7%;
     text-align: center;
 }
 
 div.button:hover {
-    background-color: purple;
+    background-color: rgb(40, 140, 255);
     color: white;
 }
